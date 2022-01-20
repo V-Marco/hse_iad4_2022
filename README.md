@@ -10,4 +10,4 @@
   - [Видео](https://youtu.be/uUTb1PtWqSE)
   - [Хороший пост про np.random.seed()](https://stackoverflow.com/questions/21494489/what-does-numpy-random-seed0-do)
   - [Классный текст про генераторы случайных чисел](https://onlinelibrary.wiley.com/doi/pdf/10.1002/9783527683147.app1)
-  - [Markdown Cheatsheet](https://www.markdownguide.org/basic-syntax#links)
+  - [Markdown Cheatsheet](https://www.markdownguide.org/basic-syntax#overview)
