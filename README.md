@@ -3,6 +3,7 @@
 
 - Полезные ссылки.
   - [Anaconda](https://www.anaconda.com/products/individual)
+  - [Stackoverflow](https://stackoverflow.com)
   - Таблица с оценками
 
 - Семинар 1: Немного про Jupyter notebook и numpy
