@@ -1,10 +1,13 @@
 # hse_iad4_2022
 Здесь будут выкладываться материалы семинаров для ИАД4.
 
-- Полезные ссылки.
+- Полезные ссылки
   - [Anaconda](https://www.anaconda.com/products/individual)
   - [Stackoverflow](https://stackoverflow.com)
   - Таблица с оценками
+
+- Консультации
+  - По Git и GitHub: [задание](https://github.com/V-Marco/hse_iad4_2022/blob/main/misc/git_cons.pdf), [видео](https://youtu.be/Cvd8tdK8CVo)
 
 - Семинар 1: Немного про Jupyter notebook и numpy
   - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_1/solved_sem01_numpy.ipynb)
@@ -20,3 +23,7 @@
   - [Разница между функциями `map`, `apply`, `applymap`](https://stackoverflow.com/questions/19798153/difference-between-map-applymap-and-apply-methods-in-pandas)
   - [Примеры индексации в Pandas](https://github.com/V-Marco/hse_iad5_2021/blob/main/misc/pandas_indexing_examples.ipynb)
   - [Здоровское пояснение про bitwise operators в Pandas](https://towardsdatascience.com/bitwise-operators-and-chaining-comparisons-in-pandas-d3a559487525)
+
+- Семинар 3: sklearn и kNN
+  - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_3/solved_sem03_sklearn_knn.ipynb)
+  - [Видео](https://youtu.be/6C4PBjQBtdc)
