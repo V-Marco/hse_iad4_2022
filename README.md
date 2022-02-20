@@ -38,3 +38,8 @@
     - Две категориальные ранговые переменные: [корреляция Спирмена (можно использовать и для непрерывных переменных)](https://en.wikipedia.org/wiki/Spearman%27s_rank_correlation_coefficient), [тау Кендалла](https://en.wikipedia.org/wiki/Kendall_rank_correlation_coefficient)
     - Две категориальные номинальные переменные: [коэффициент Крамера (V или Phi, одно и то же)](http://mlwiki.org/index.php/Cramer%27s_Coefficient), основанный на [хи-квадрат критерии согласия (раздел Testing for statistical independence, показывает независимость)](https://en.wikipedia.org/wiki/Pearson%27s_chi-squared_test)
     - Категориальная и непрерывная: [p-value в F-тесте на сравнение средних](http://mlwiki.org/index.php/One-Way_ANOVA_F-Test)
+
+- Семинар 5: ООП
+  - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_5/solved_sem05_OOP.ipynb)
+  - [Видео](https://youtu.be/Cx94tHmOuoA)
+  - Про call-by-object в Python: [раз](https://stackoverflow.com/questions/8184244/i-thought-python-passed-everything-by-reference), [два](https://www.geeksforgeeks.org/is-python-call-by-reference-or-call-by-value/)
