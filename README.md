@@ -8,6 +8,7 @@
 
 - Консультации
   - По Git и GitHub: [задание](https://github.com/V-Marco/hse_iad4_2022/blob/main/misc/git_cons.pdf), [видео](https://youtu.be/Cvd8tdK8CVo)
+  - По matplotlib: [тетрадка](https://github.com/V-Marco/hse_iad4_2022/blob/main/misc/matplotlib_cons_2022.ipynb), [видео]
 
 - Семинар 1: Немного про Jupyter notebook и numpy
   - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_1/solved_sem01_numpy.ipynb)
