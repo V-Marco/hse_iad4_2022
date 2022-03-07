@@ -45,9 +45,10 @@
   - [Видео](https://youtu.be/Cx94tHmOuoA)
   - [Видео-2]
   - Про call-by-object в Python: [раз](https://stackoverflow.com/questions/8184244/i-thought-python-passed-everything-by-reference), [два](https://www.geeksforgeeks.org/is-python-call-by-reference-or-call-by-value/)
+  - [Хорошая статья про декораторы](https://tproger.ru/translations/demystifying-decorators-in-python/)
 
 - Семинар 6: Линейная регрессия
-  - [Кодспект]
+  - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_6/solved_sem06_linreg.ipynb)
   - [Видео к кодспекту]
   - [Конспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_6/lin_reg_notes.pdf)
   - [Видео к конспекту]
