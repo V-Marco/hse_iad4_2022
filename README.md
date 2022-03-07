@@ -8,7 +8,7 @@
 
 - Консультации
   - По Git и GitHub: [задание](https://github.com/V-Marco/hse_iad4_2022/blob/main/misc/git_cons.pdf), [видео](https://youtu.be/Cvd8tdK8CVo)
-  - По matplotlib: [тетрадка](https://github.com/V-Marco/hse_iad4_2022/blob/main/misc/matplotlib_cons_2022.ipynb), [видео]
+  - По matplotlib: [тетрадка](https://github.com/V-Marco/hse_iad4_2022/blob/main/misc/matplotlib_cons_2022.ipynb), [видео](https://youtu.be/BKWy5UiF3gM)
 
 - Семинар 1: Немного про Jupyter notebook и numpy
   - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_1/solved_sem01_numpy.ipynb)
@@ -43,15 +43,15 @@
 - Семинар 5: ООП
   - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_5/solved_sem05_OOP.ipynb)
   - [Видео](https://youtu.be/Cx94tHmOuoA)
-  - [Видео-2]
+  - [Видео-2](https://youtu.be/phwL5Tb8NVs)
   - Про call-by-object в Python: [раз](https://stackoverflow.com/questions/8184244/i-thought-python-passed-everything-by-reference), [два](https://www.geeksforgeeks.org/is-python-call-by-reference-or-call-by-value/)
   - [Хорошая статья про декораторы](https://tproger.ru/translations/demystifying-decorators-in-python/)
 
 - Семинар 6: Линейная регрессия
   - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_6/solved_sem06_linreg.ipynb)
-  - [Видео к кодспекту]
+  - [Видео к кодспекту](https://youtu.be/bzHVfArfg-g)
   - [Конспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_6/lin_reg_notes.pdf)
-  - [Видео к конспекту]
+  - [Видео к конспекту](https://youtu.be/ZtsDnF9LaH4)
   - [Функции потерь](https://heartbeat.fritz.ai/5-regression-loss-functions-all-machine-learners-should-know-4fb140e9d4b0)
   - [Мультиколлинеарность](https://stats.stackexchange.com/questions/361247/multicollinearity-and-predictive-performance)
   - [Минимизация MAE](https://stats.stackexchange.com/questions/355538/why-does-minimizing-the-mae-lead-to-forecasting-the-median-and-not-the-mean)
