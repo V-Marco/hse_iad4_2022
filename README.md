@@ -56,3 +56,8 @@
   - [Мультиколлинеарность](https://stats.stackexchange.com/questions/361247/multicollinearity-and-predictive-performance)
   - [Минимизация MAE](https://stats.stackexchange.com/questions/355538/why-does-minimizing-the-mae-lead-to-forecasting-the-median-and-not-the-mean)
 
+- Семинар 7: Градиентный спуск
+  - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_7/solved_sem07_grad.ipynb)
+  - [Видео](https://youtu.be/LHSsOkuCoSE)
+  - [О сходимости градиентного спуска на практике](https://datascience.stackexchange.com/questions/24534/does-gradient-descent-always-converge-to-an-optimum)
+
