@@ -61,8 +61,13 @@
   - [Видео](https://youtu.be/LHSsOkuCoSE)
   - [О сходимости градиентного спуска на практике](https://datascience.stackexchange.com/questions/24534/does-gradient-descent-always-converge-to-an-optimum)
 
-- Семинар 8: Консультация
-  - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_8/solved_sem08_cons.ipynb)
-  - [Конспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_8/matr_diff_notes.pdf)
+- Семинар 7.5: Консультация
+  - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_7_and_half/solved_sem08_cons.ipynb)
+  - [Конспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_7_and_half/matr_diff_notes.pdf)
+  - [Видео]
+
+- Семинар 8: Линейная классификация
+  - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_8/solved_sem08_linclass.ipynb)
+  - [Конспект]
   - [Видео]
 
