@@ -64,10 +64,10 @@
 - Семинар 7.5: Консультация
   - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_7_and_half/solved_sem07_5_cons.ipynb)
   - [Конспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_7_and_half/matr_diff_notes.pdf)
-  - [Видео]
+  - [Видео](https://youtu.be/iOyXdI7HEK8)
 
 - Семинар 8: Линейная классификация
   - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_8/solved_sem08_linclass.ipynb)
-  - [Конспект]
-  - [Видео]
+  - [Конспект]()
+  - [Видео](https://youtu.be/K5e0x_Df0PE)
 
