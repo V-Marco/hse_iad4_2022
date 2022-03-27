@@ -68,6 +68,6 @@
 
 - Семинар 8: Линейная классификация
   - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_8/solved_sem08_linclass.ipynb)
-  - [Конспект]()
+  - [Конспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_8/cl_metrics_notes.pdf)
   - [Видео](https://youtu.be/K5e0x_Df0PE)
 
