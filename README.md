@@ -71,3 +71,7 @@
   - [Конспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_8/cl_metrics_notes.pdf)
   - [Видео](https://youtu.be/K5e0x_Df0PE)
 
+- Семинар 9: Логистическая регрессия и SVM
+  - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_9/sem09_logit_svm.ipynb)
+  - [Видео]
+
