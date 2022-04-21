@@ -73,5 +73,11 @@
 
 - Семинар 9: Логистическая регрессия и SVM
   - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_9/sem09_logit_svm.ipynb)
+  - [Видео](https://youtu.be/NDe-m5aE8r0)
+
+- Семинар 10: Обработка текстов
+  - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_10/solved_sem10_texts.ipynb)
   - [Видео]
+  - [Примеры из Google-таблиц](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_10/examples.xlsx)
+  - [Документация re](https://docs.python.org/3/library/re.html)
 
