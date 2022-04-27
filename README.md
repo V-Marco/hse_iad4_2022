@@ -77,7 +77,7 @@
 
 - Семинар 10: Обработка текстов
   - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_10/solved_sem10_texts.ipynb)
-  - [Видео]
+  - [Видео](https://youtu.be/HKD-OS3yTmc)
   - [Примеры из Google-таблиц](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_10/examples.xlsx)
   - [Документация re](https://docs.python.org/3/library/re.html)
 
