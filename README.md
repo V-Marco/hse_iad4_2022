@@ -82,6 +82,6 @@
   - [Документация re](https://docs.python.org/3/library/re.html)
 
 - Семинар 11: Многоклассовая классификация
-  - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_11/sem11_multiclass_calibration.ipynb)
+  - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_11/solved_sem11_multiclass_calibration.ipynb)
   - [Видео]
   - [Хороший обзор проблемы калибровки](https://dyakonov.org/2020/03/27/проблема-калибровки-уверенности/)
