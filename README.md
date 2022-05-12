@@ -85,3 +85,7 @@
   - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_11/solved_sem11_multiclass_calibration.ipynb)
   - [Видео]
   - [Хороший обзор проблемы калибровки](https://dyakonov.org/2020/03/27/проблема-калибровки-уверенности/)
+
+- Семинар 12: Решающие деревья
+  - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_12/sem12_trees.ipynb)
+  - [Видео]
