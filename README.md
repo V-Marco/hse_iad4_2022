@@ -83,10 +83,14 @@
 
 - Семинар 11: Многоклассовая классификация
   - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_11/solved_sem11_multiclass_calibration.ipynb)
-  - [Видео]
+  - [Видео](https://www.youtube.com/watch?v=eGKM8uLUskM&list=PLEwK9wdS5g0rco8Fan1hA-bV2DXOyRkXQ&index=135)
   - [Хороший обзор проблемы калибровки](https://dyakonov.org/2020/03/27/проблема-калибровки-уверенности/)
 
 - Семинар 12: Решающие деревья
   - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_12/sem12_trees.ipynb)
   - [Конспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_12/notes.pdf)
+  - [Видео](https://www.youtube.com/watch?v=4m8DjImM1UA&list=PLEwK9wdS5g0rco8Fan1hA-bV2DXOyRkXQ&index=143&t=3318s)
+
+- Cеминар 13: Случайный лес
+  - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_13/sem13_rf.ipynb)
   - [Видео]
