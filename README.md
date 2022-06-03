@@ -94,3 +94,7 @@
 - Cеминар 13: Случайный лес
   - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_13/sem13_rf.ipynb)
   - [Видео]
+
+- Семинар 14: Градиентный бустинг
+  - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_14/sem14_boosting_part1.ipynb)
+  - [Видео]
