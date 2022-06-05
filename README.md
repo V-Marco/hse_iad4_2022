@@ -88,6 +88,7 @@
 
 - Семинар 12: Решающие деревья
   - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_12/sem12_trees.ipynb)
+  - [Решение бонуса](https://github.com/V-Marco/hse_iad5_2021/blob/main/seminar12/sem12_trees.ipynb)
   - [Конспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_12/notes.pdf)
   - [Видео](https://www.youtube.com/watch?v=4m8DjImM1UA&list=PLEwK9wdS5g0rco8Fan1hA-bV2DXOyRkXQ&index=143&t=3318s)
 
