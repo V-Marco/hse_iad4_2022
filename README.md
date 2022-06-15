@@ -109,3 +109,7 @@
   - [Про значения Шепли](https://ru.wikipedia.org/wiki/Вектор_Шепли)
   - [Слайды из видео про CatBoost](https://assets.ctfassets.net/oxjq45e8ilak/1NtBCBQxXCaAOwy8kumUKu/edccea9c32bdf119e10417367cc85602/_________________________________________CatBoost___________________________________________________________________________.pdf)
   - [Хороший обзор LightGBM](https://konstantinklepikov.github.io/myknowlegebase/notes/lightgbm-parameters-tuning)
+
+- Семинар 16: Кластеризация
+  - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_16/sem16_clustering.ipynb)
+  - [Видео]
