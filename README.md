@@ -94,15 +94,15 @@
 
 - Cеминар 13: Случайный лес
   - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_13/sem13_rf.ipynb)
-  - [Видео]
+  - [Видео](https://youtu.be/zVHY2qUu6T8)
 
 - Семинар 14: Градиентный бустинг
   - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_14/sem14_boosting_part1.ipynb)
-  - [Видео]
+  - [Видео](https://youtu.be/DJS6o-xmiRQ)
 
 - Семинар 15: Имплементации градиентного бустинга
   - [Кодспект](https://github.com/V-Marco/hse_iad4_2022/blob/main/seminar_15/sem15_boostings_part2.ipynb)
-  - [Видео]
+  - [Видео](https://youtu.be/T-2uxRNTkMs)
   - [Про XGBoost с МО на ФКН](https://github.com/esokolov/ml-course-hse/blob/master/2020-fall/lecture-notes/lecture10-ensembles.pdf)
   - [Оригинальная статья XGBoost](https://arxiv.org/pdf/1603.02754.pdf)
   - [Хорошее описание гиперпараметров в XGBoost](https://www.machinelearningmastery.ru/from-zero-to-hero-in-xgboost-tuning-e48b59bfaf58/)
